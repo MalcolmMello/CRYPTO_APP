@@ -33,9 +33,15 @@ export const Navbar = styled.header<{menu: boolean, theme: string}>`
         }
     }
 
-    .menu--buttons {
-        display: none
+    .change--theme {
+        cursor: pointer
     }
+
+    .menu--buttons {
+        display: none;
+        cursor: pointer
+    }
+
     nav {
         display: flex;
         align-items: center

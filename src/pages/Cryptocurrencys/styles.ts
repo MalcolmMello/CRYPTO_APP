@@ -30,7 +30,7 @@ export const Cryptocurrencies = styled.main<{theme: string}>`
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         grid-gap: 20px;
-        padding: 20px 0px;
+        padding: 20px 0px
     }
 
     @media(max-width: 1024px) {

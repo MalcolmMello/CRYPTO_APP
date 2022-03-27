@@ -36,6 +36,8 @@ export const CryptoApi = {
             console.log(error)
         }
     },
+    //1648378800
+    //1407783800000 
     getCoinHistory: async ({ uuidToString, period }: Props) => {
         try {
             let coin = await http.get(`/coin/${uuidToString}/history`, {
