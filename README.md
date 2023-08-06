@@ -57,4 +57,4 @@ npm start
 
 ---
 
-Made with ❤️ by Malcolm Mello - See my [LinkedIn](https://www.linkedin.com/in/malcolm-de-mello-a8208a224/)
+Made with ❤️ by Malcolm Mello - See my [LinkedIn](https://www.linkedin.com/in/malcolm-lima/)
